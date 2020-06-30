@@ -1,25 +1,29 @@
 # App Tracking Transparency for Unity
 
-### Download
+## Requirements
+[![Unity 2019.2+](https://img.shields.io/badge/unity-2019.2+-black.svg?style=flat&logo=unity&cacheSeconds=2592000)](https://unity3d.com/get-unity/download/archive)
+[![.NET 4.x Scripting Runtime](https://img.shields.io/badge/.NET-4.x-blueviolet.svg?style=flat&cacheSeconds=2592000)](https://docs.unity3d.com/2018.3/Documentation/Manual/ScriptingRuntimeUpgrade.html)
 
+## Installation
+### Unity Asset Store
 Get it on [Unity Asset Store](https://assetstore.unity.com/packages/slug/174256)
 
-### Introduction
+## Introduction
 
 This plugin allows your app/game to easily show the iOS 14 native App Tracking Transparency popup to your users, meeting Apple's requirement since iOS 14.
 
-### Usage
+## Usage
 
 Register your callback to get notified with the authorization result and Rrequest tracking authorization
 
-```
+```csharp
 AppTrackingTransparency.OnAuthorizationRequestDone += OnAuthorizationRequestDone;
 AppTrackingTransparency.RequestTrackingAuthorization();
 ```
 
-### Example
+## Example
 
-```
+```csharp
 using Balaso;
 using UnityEngine;
 
