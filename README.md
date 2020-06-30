@@ -1,9 +1,5 @@
 # App Tracking Transparency for Unity
 
-## Installation
-### Unity Asset Store
-Get it on [Unity Asset Store](https://assetstore.unity.com/packages/slug/174256)
-
 ## Introduction
 
 This plugin allows your app/game to easily show the iOS 14 native App Tracking Transparency popup to your users, meeting Apple's requirement since iOS 14.
@@ -11,6 +7,10 @@ This plugin allows your app/game to easily show the iOS 14 native App Tracking T
 <p align="center">
 <img src="https://github.com/Balaso-Software/app-tracking-transparency-for-unity/raw/master/img/screenshot.png" alt="drawing" width="320"/>
 </p>
+
+## Installation
+### Unity Asset Store
+Get it on [Unity Asset Store](https://assetstore.unity.com/packages/slug/174256)
 
 ## Usage
 
