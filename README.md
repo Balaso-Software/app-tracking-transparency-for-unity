@@ -18,7 +18,7 @@ This plugin allows your app/game to easily show the iOS 14 native App Tracking T
 
 ## Usage
 
-Register your callback to get notified with the authorization result and Rrequest tracking authorization
+Register your callback to get notified with the authorization result and request tracking authorization
 
 ```csharp
 AppTrackingTransparency.OnAuthorizationRequestDone += OnAuthorizationRequestDone;
