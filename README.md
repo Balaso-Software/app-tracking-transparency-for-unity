@@ -13,7 +13,7 @@ Get it on [Unity Asset Store](https://assetstore.unity.com/packages/slug/174256)
 This plugin allows your app/game to easily show the iOS 14 native App Tracking Transparency popup to your users, meeting Apple's requirement since iOS 14.
 
 <p align="center">
-	![Screenshot](img/screenshot.png)
+<img src="https://github.com/Balaso-Software/app-tracking-transparency-for-unity/raw/master/img/screenshot.png" alt="drawing" width="320"/>
 </p>
 
 ## Usage
