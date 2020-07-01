@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: App Tracking Transparency for Unity - iOS 14 (IDFA)
 image: https://assetstorev1-prd-cdn.unity3d.com/key-image/8a00499a-b536-4ef4-818b-b15899f60398.webp
 description: This Unity plugin allows your app/game to easily show the iOS 14 native App Tracking Transparency popup
+google_analytics: UA-171433723-2
