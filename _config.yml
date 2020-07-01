@@ -1,3 +1,3 @@
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
 title: App Tracking Transparency for Unity - iOS 14 (IDFA)
 description: This Unity plugin allows your app/game to easily show the iOS 14 native App Tracking Transparency popup
