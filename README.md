@@ -1,6 +1,6 @@
-# App Tracking Transparency for Unity
+## App Tracking Transparency for Unity
 
-## Introduction
+### Introduction
 
 This plugin allows your app/game to easily show the iOS 14 native App Tracking Transparency popup to your users, meeting Apple's requirement since iOS 14.
 
@@ -8,11 +8,11 @@ This plugin allows your app/game to easily show the iOS 14 native App Tracking T
 <img src="https://github.com/Balaso-Software/app-tracking-transparency-for-unity/raw/master/img/screenshot.png" alt="drawing" width="320"/>
 </p>
 
-## Installation
-### Unity Asset Store
+### Installation
+#### Unity Asset Store
 Get it on [Unity Asset Store](https://assetstore.unity.com/packages/slug/174256)
 
-## Usage
+### Usage
 
 Register your callback to get notified with the authorization result and request tracking authorization
 
@@ -21,7 +21,7 @@ AppTrackingTransparency.OnAuthorizationRequestDone += OnAuthorizationRequestDone
 AppTrackingTransparency.RequestTrackingAuthorization();
 ```
 
-## Example
+### Example
 
 ```csharp
 using Balaso;
