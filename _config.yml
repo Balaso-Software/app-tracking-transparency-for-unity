@@ -7,3 +7,5 @@ image:
 description: This Unity plugin allows your app/game to easily show the iOS 14 native App Tracking Transparency popup
 google_analytics: UA-171433723-2
 tagline: Unity plugin to show iOS 14 App Tracking Transparency popup
+plugins:
+  - jekyll-sitemap
