@@ -9,3 +9,7 @@ google_analytics: UA-171433723-2
 tagline: Unity plugin to show iOS 14 App Tracking Transparency popup
 plugins:
   - jekyll-sitemap
+titles_from_headings:
+    enabled:     true
+    strip_title: true
+    collections: false
