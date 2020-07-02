@@ -6,4 +6,5 @@ image:
   height: 333
 description: This Unity plugin allows your app/game to easily show the iOS 14 native App Tracking Transparency popup
 google_analytics: UA-171433723-2
-show-downloads: https://assetstore.unity.com/packages/slug/174256
+url: https://assetstore.unity.com/packages/slug/174256
+tagline: Unity plugin to show iOS 14 App Tracking Transparency popup
