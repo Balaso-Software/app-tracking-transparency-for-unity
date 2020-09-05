@@ -14,10 +14,10 @@ Get it on [Unity Asset Store](https://assetstore.unity.com/packages/slug/174256)
 
 ### Settings
 
-Customize the app-tracking popup message and specify any SkAdNetwork ID to be added to your **Info.plist** file.
+Find the Settings window in your Unity Editor under **Window/Balaso/App Tracking for Transparency/Settings**
 
 <p align="center">
-<img src="https://github.com/Balaso-Software/app-tracking-transparency-for-unity/raw/master/img/settings.png" alt="drawing" width="320"/>
+<img src="https://github.com/Balaso-Software/app-tracking-transparency-for-unity/raw/master/img/settings.png" alt="drawing" width="640"/>
 </p>
 
 ### Usage
